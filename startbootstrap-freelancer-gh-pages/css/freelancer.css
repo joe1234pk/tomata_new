@@ -3,10 +3,22 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/master/LICENSE)
  */
+   @font-face 
+  {
+     font-family: 'Avenir';
+     src:url('font/Avenir.ttc');
+  
+   }
 
+   @font-face 
+  {
+     font-family: 'AvenirNext';
+     src:url('font/AvenirNext.ttc');
+  
+   }
 
 body {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Avenir','AvenirNext', 'Lato', sans-serif;
   overflow-x: hidden; }
 
 p {
