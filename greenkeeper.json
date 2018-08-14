@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "startbootstrap-freelancer-gh-pages/package.json"
+      ]
+    }
+  }
+}
